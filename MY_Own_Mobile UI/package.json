@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.2.0",
+    "@react-navigation/drawer": "^7.1.1",
+    "@react-navigation/native": "^7.0.14",
+    "react-native-paper": "^5.13.1",
+    "react-native-safe-area-context": "^5.1.0",
+    "react-native-screens": "^4.6.0",
+    "react-native-snap-carousel": "^3.9.1"
+  }
+}
